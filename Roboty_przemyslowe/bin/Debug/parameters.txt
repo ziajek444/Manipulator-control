@@ -1,0 +1,9 @@
+﻿Start#
+Com Name: COM1#
+Baudrate: 96900#
+
+
+asdf
+gh
+
+ty10

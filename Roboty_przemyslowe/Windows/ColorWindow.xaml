@@ -1,0 +1,52 @@
+﻿<Window x:Class="Roboty_przemyslowe.ColorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ColorWindow"  
+        Name="ColorWindowWindow"
+        WindowStyle="None"
+        Height="474.51" Width="693.627">
+    
+    
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+            CaptionHeight="30"
+            CornerRadius="20,20,20,20"
+            UseAeroCaptionButtons="True"
+            
+        />
+
+    </WindowChrome.WindowChrome>
+    <Grid x:Name="ColorWidowGrid" Background="#017BCD">
+        <Label FontFamily="Tahoma" FontWeight="SemiBold" Content="Color Window" HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Close_Button" Background="Red" Content="X" HorizontalAlignment="Left" Margin="651,5,0,0" VerticalAlignment="Top" Width="25" Click="Close_Button_Click" WindowChrome.IsHitTestVisibleInChrome="True"/>
+
+
+
+        <Grid x:Name="ControlsGrid" Background="#242424" HorizontalAlignment="Left" Height="427" Margin="15,30,0,0" VerticalAlignment="Top" Width="661" >
+            <ListBox x:Name="Commandlist_Listbox" Background="#A09F9F" HorizontalAlignment="Left" Height="150" Margin="25,40,0,0" VerticalAlignment="Top" Width="150"/>
+            <ListBox x:Name="Chosencommand_Listbox" Background="#A09F9F" HorizontalAlignment="Left" Height="150" Margin="267,40,0,0" VerticalAlignment="Top" Width="150" SelectionChanged="Chosencommand_Listbox_SelectionChanged"/>
+
+            <Button x:Name="Choose_button" Content=">>>" Background="#017BCD" HorizontalAlignment="Left" Foreground="White" Margin="203,90,0,0" VerticalAlignment="Top" Width="50" Click="Choose_button_Click"/>
+
+            <Label x:Name="label" Content="Command List" Foreground="White" HorizontalAlignment="Left" Margin="25,14,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label1" Content="Chosen List" Foreground="White" HorizontalAlignment="Left" Margin="267,14,0,0" VerticalAlignment="Top"/>
+
+            <ListBox x:Name="Commandtypelist_Listbox" Background="#A09F9F" HorizontalAlignment="Left" Height="150" Margin="25,240,0,0" VerticalAlignment="Top" Width="150"/>
+            <ListBox x:Name="Chosencommandtype_Listbox" Background="#A09F9F" HorizontalAlignment="Left" Height="150" Margin="267,240,0,0" VerticalAlignment="Top" Width="150"/>
+            <Button x:Name="Choosetype_button" Content=">>>" Background="#017BCD" Foreground="White" HorizontalAlignment="Left" Margin="203,305,0,0" VerticalAlignment="Top" Width="50" Click="Choosetype_button_Click"/>
+
+            <Label x:Name="label2" Content="Command Type List" Foreground="White" HorizontalAlignment="Left" Margin="25,215,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label3" Content="Chosen Type List" Foreground="White" HorizontalAlignment="Left" Margin="267,215,0,0" VerticalAlignment="Top"/>
+            <Slider x:Name="SliderR" Maximum="255" Minimum="0" Height="150" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="431,40,0,0"/>
+            <Slider x:Name="SliderG" Maximum="255" Minimum="0" Height="150" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="458,40,0,0"/>
+            <Slider x:Name="SliderB" Maximum="255" Minimum="0" Height="150" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="485,40,0,0"/>
+            <Slider x:Name="SliderR1" Maximum="255" Minimum="0" Height="150" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="431,240,0,0"/>
+            <Slider x:Name="SliderG1" Maximum="255" Minimum="0" Height="150" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="458,240,0,0"/>
+            <Slider x:Name="SliderB1" Maximum="255" Minimum="0" Height="150" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="485,240,0,0"/>
+            <Grid HorizontalAlignment="Left" x:Name="TestGrid1" Height="100" Margin="541,69,0,0" VerticalAlignment="Top" Width="100"/>
+            <Grid HorizontalAlignment="Left" x:Name="TestGrid2" Height="100" Margin="541,270,0,0" VerticalAlignment="Top" Width="100"/>
+            <Button x:Name="SetButton" Content="SET" HorizontalAlignment="Left" Foreground="White" Background="#017BCD" Margin="541,207,0,0" VerticalAlignment="Top" Width="75"/>
+
+        </Grid>
+    </Grid>
+</Window>

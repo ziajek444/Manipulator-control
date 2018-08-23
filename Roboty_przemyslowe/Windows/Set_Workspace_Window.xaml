@@ -1,0 +1,19 @@
+﻿<Window x:Name="SW_Window" x:Class="Roboty_przemyslowe.Set_Workspace_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Set_Workspace_Window" Height="300" Width="300">
+    <Grid>
+        <TextBox x:Name="Xmin_TB" HorizontalAlignment="Left" Height="25" Margin="40,35,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Xmax_TB" HorizontalAlignment="Left" Height="25" Margin="165,35,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Ymin_TB" HorizontalAlignment="Left" Height="25" Margin="40,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Ymax_TB" HorizontalAlignment="Left" Height="25" Margin="165,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Zmin_TB" HorizontalAlignment="Left" Height="25" Margin="40,155,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="Zmax_TB" HorizontalAlignment="Left" Height="25" Margin="165,155,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <Button x:Name="W_Set_Button" Content="Set" HorizontalAlignment="Left" Margin="40,214,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="Cancel_Button" Content="Cancel" HorizontalAlignment="Left" Margin="165,214,0,0" VerticalAlignment="Top" Width="75" Click="Cancel_Button_Click"/>
+        <GroupBox Header="X" HorizontalAlignment="Left" Height="60" Margin="10,10,0,0" VerticalAlignment="Top" Width="272" BorderBrush="#FFE02234"/>
+        <GroupBox Header="Y" HorizontalAlignment="Left" Height="60" Margin="10,70,0,0" VerticalAlignment="Top" Width="272" BorderBrush="#FF227DB4"/>
+        <GroupBox Header="Z" HorizontalAlignment="Left" Height="60" Margin="10,130,0,0" VerticalAlignment="Top" Width="272" BorderBrush="#FF2CDC23"/>
+
+    </Grid>
+</Window>

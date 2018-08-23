@@ -1,0 +1,15 @@
+﻿<Window x:Class="Roboty_przemyslowe.CodeGenerate_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CodeGenerate_Window" Height="600" Width="400">
+    <Grid x:Name="CG_Grid">
+        <RichTextBox x:Name="Code_RTbox" HorizontalAlignment="Left" Height="565" Width="390" Margin="2,2,0,0" VerticalAlignment="Top" >
+            <FlowDocument>
+                <Paragraph>
+                    
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

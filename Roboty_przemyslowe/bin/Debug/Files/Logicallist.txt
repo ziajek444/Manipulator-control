@@ -1,0 +1,10 @@
+ADD
+AND
+DIV
+EQ
+LG
+MUL
+NE
+OR
+SM
+XO

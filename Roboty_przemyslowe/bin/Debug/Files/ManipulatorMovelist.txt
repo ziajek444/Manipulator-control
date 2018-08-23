@@ -1,0 +1,11 @@
+DP
+DS
+DW
+MA
+MC
+MO
+MP
+MR
+MRA
+MS
+OG

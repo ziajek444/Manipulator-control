@@ -1,0 +1,693 @@
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Dysk Google\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\Roboty_przemyslowe\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v1\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v2\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+D:\GOOGLE DRIVE\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+D:\GOOGLE DRIVE\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+D:\GOOGLE DRIVE\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v3\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v4\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v5\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v6\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v7\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v8\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v10\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v11\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v12\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v14\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v15\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v16\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v17\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v18\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v20\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Dysk Google\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+D:\GOOGLE DRIVE\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Student\Downloads\R_P_v21-20170606T063010Z-001\R_P_v21\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v22\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v23\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v24\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v26\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v27\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v27\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v27\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v28\o nie gdzie sa moje pliki\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v29\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v30\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.baml
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.baml
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.baml
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.baml
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\CodeGenerate_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\ColorWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Connection_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Set_Workspace_Window.g.cs
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Lapek\Desktop\R_P_v31\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\CodeGenerate_Window.baml
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\ColorWindow.baml
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Connection_Window.baml
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Set_Workspace_Window.baml
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\CodeGenerate_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\ColorWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Connection_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Set_Workspace_Window.g.cs
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\MyMessageWindow.baml
+C:\Users\Patryk\Desktop\R_P_v32\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\MyMessageWindow.g.cs
+C:\Users\Patryk\Desktop\R_P_v33\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Patryk\Desktop\R_P_v33\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Patryk\Desktop\R_P_v33\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\CodeGenerate_Window.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\ColorWindow.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Connection_Window.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\MyMessageWindow.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Set_Workspace_Window.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\CodeGenerate_Window.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\ColorWindow.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Connection_Window.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\MyMessageWindow.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Set_Workspace_Window.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Vader\Desktop\Nowy folder (2)\ojejku popsiułem o nie o nie\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.pdb
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csprojResolveAssemblyReference.cache
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\CodeGenerate_Window.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\ColorWindow.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Connection_Window.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\MyMessageWindow.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Set_Workspace_Window.baml
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\CodeGenerate_Window.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\ColorWindow.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Connection_Window.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\MainWindow.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\MyMessageWindow.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Windows\Set_Workspace_Window.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\App.g.cs
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe_MarkupCompile.cache
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.g.resources
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.Properties.Resources.resources
+C:\Users\Vader\Desktop\Nowy folder (2)\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.csproj.GenerateResource.Cache
+D:\DyskGoogle\PROJEKT ROBOTY 2017\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\bin\Debug\Roboty_przemyslowe.exe.config
+D:\DyskGoogle\PROJEKT ROBOTY 2017\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.exe
+D:\DyskGoogle\PROJEKT ROBOTY 2017\v35 NEXT Thing To love v35\Roboty_przemyslowe\Roboty_przemyslowe\obj\Debug\Roboty_przemyslowe.pdb
